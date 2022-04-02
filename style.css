@@ -9,19 +9,19 @@ html, body{
   font-weight: bold;
 }
 
-.search{
+/* .search{ */
   /* position: absolute; */
   /* display: flex; */
   /* justify-content: center; */
   /* align-items: center; */
-  text-align: center;
+  /* text-align: center; */
   /* overflow:hidden; */
-  width: 100%;
+  /* width: 100%; */
   /* height:40px; */
   /* padding:1; */
   /* margin-left: auto; */
   /* margin-right: auto; */
-}
+/* } */
 /* iframe{ */
 /*   width: 100%; */
 /* } */
@@ -33,7 +33,7 @@ form {
 form > input[type="text"] {
   height: 49px;
   /* width: 200px; */
-  width: 1200px;
+  width: 1400px;
   margin-left: 24px;
   margin-right: 24px;
   font-size: 23px;
