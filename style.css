@@ -9,23 +9,22 @@ html, body{
   font-weight: bold;
 }
 
-/* .search{ */
-/*   /* position: absolute; */ */
-/*   /* display: flex; */ */
-/*   /* justify-content: center; */ */
-/*   /* align-items: center; */ */
-/*   text-align: center; */
-/*   /* overflow:hidden; */ */
+.search{
+  /* position: absolute; */
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  text-align: center;
+  /* overflow:hidden; */
+  width: 100%;
+  /* height:40px; */
+  /* padding:1; */
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+}
+/* iframe{ */
 /*   width: 100%; */
-/*   /* height:40px; */ */
-/*   /* padding:1; */ */
-/*   /* margin-left: auto; */ */
-/*   /* margin-right: auto; */ */
 /* } */
-/* /* iframe{ */ */
-/* /*   width: 100%; */ */
-/* /* } */ */
-
 form {
   display: inline-block;
   vertical-align: middle;
